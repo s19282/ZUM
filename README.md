@@ -1,0 +1,2 @@
+# ZUM
+Zastosowania Uczenia Maszynowego
